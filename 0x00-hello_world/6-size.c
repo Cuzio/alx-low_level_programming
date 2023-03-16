@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - printing the different sizes ran on the computer.
- * Return: 0 (shows that it is successful.
+ * Return: 0 (shows that it is successful.)
  */
 int main(void)
 {
