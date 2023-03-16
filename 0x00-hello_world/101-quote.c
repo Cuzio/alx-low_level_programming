@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - unix program that prints exactly what it is needed.
- * Return: 1 (shows that it is successful)
+ * main - A c program that prints a line to the standrad error
+ * Return: 1 (Success)
  */
 int main(void)
 {
