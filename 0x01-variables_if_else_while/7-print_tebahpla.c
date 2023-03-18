@@ -1,4 +1,4 @@
-#include <stdio.>
+#include <stdio.h>
 
 /**
  * main - mirror, let's give your something to look at.
