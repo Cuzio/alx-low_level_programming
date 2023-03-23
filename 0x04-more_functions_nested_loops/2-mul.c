@@ -1,15 +1,13 @@
 #include "main.h"
-
 /**
- * mul - the function to use to multiple
- * @a: variable
- * @b: variable
- * Return: always 0
+ * mul - checks for checks for a digit (0 through 9).
+ * @a: a - Variable
+ * @b: b - variable
+ * Return: Always 0.
  */
-
 int mul(int a, int b)
 {
-	mul(2, 3);
+	int mul;
 
 	mul = a * b;
 	return (mul);
