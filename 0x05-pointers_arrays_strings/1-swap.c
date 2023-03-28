@@ -2,7 +2,7 @@
 
 
 /**
- * main - function that swaps value
+ * swap_int - function that swaps value
  * @a: first integer
  * @b: second integer
  * Return: Always 0
