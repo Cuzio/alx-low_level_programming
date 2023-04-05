@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * _pow_recursion - function that returns the value of x raised to the power of y
+ * _pow_recursion - function that returns the value of x ** y
  * @x: first integer
  * @y: second integer
  * Return: -1
