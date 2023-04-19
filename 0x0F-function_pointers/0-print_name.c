@@ -14,9 +14,10 @@ void print_name(char *name, void (*f)(char *))
 	printf("Hello my name is %s\n", name);
 }
 
-int main()
+int main(void)
 {
-	void (*ptr)(char*);
+	void (*ptr)(char *);
+
 	ptr = print_name;
 	ptr("Bob");
 }
